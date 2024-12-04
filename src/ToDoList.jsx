@@ -36,7 +36,7 @@ function ToDoList() {
       className="container mt-5 p-4"
       style={{ backgroundColor: "#6a0dad", borderRadius: "5px" }}
     >
-      <h1 className="text-center mb-4 text-white">To-Do List</h1>
+      <h1 className="text-center mb-4 text-white">Check Listify</h1>
       <div className="d-flex justify-content-center mb-4">
         <input
           type="text"
